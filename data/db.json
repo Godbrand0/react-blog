@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro nihil minima fuga provident magnam explicabo sit, laborum illum animi? Sint eligendi exercitationem ipsam dolore nostrum asperiores similique eos animi et!",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro nihil minima fuga provident magnam explicabo sit, laborum illum animi? Sint eligendi exercitationem ipsam dolore nostrum asperiores similique eos animi et!",
+      "author": "belle",
+      "id": 2
+    },
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro nihil minima fuga provident magnam explicabo sit, laborum illum animi? Sint eligendi exercitationem ipsam dolore nostrum asperiores similique eos animi et!",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
